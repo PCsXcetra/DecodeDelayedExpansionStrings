@@ -7,3 +7,5 @@ https://twitter.com/Computeus7/status/1525906855477792768
 
 Blog Post reference.
 https://pcsxcetrasupport3.wordpress.com/2022/05/16/pealing-back-the-layers-of-a-batch-script-ransomware/
+
+Added xipped file for the 3 decoded files. named DecodedFiles.7z  Usual password.
